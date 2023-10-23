@@ -1,2 +1,2 @@
 # myportfolio
-click here to visit website:https://github.com/Manasvinisekar/myportfolio
+click here to visit website:https://manasvinisekar.github.io/myportfolio/
